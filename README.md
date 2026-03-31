@@ -64,7 +64,12 @@ All microservices are managed by PM2 to ensure high availability and automatic r
 | Auto restart on failure | YES |
 | PM2 starts on VM reboot | YES |
 
-## 8. How to Clone This Repository
+## 8. Screen Recording Submission (Mandatory)
+
+* **Recording URL**: https://drive.google.com/file/d/12L4fkenJXVYBrzwBsfufipEPKwNqd9bQ/view?usp=drive_link
+
+## 9. How to Clone This Repository
 
 ```bash
 git clone --recurse-submodules [https://github.com/vinilvidushanka/eca-services.git](https://github.com/vinilvidushanka/eca-services.git)
+```
