@@ -1,0 +1,12 @@
+[submodule "booking-service"]
+	path = booking-service
+	url = https://github.com/vinilvidushanka/ECA-FINAL-PROJECT-GoDrive.git
+[submodule "customer-service"]
+	path = customer-service
+	url = https://github.com/vinilvidushanka/ECA-FINAL-PROJECT-GoDrive.git
+[submodule "vehicle-service"]
+	path = vehicle-service
+	url = https://github.com/vinilvidushanka/ECA-FINAL-PROJECT-GoDrive.git
+[submodule "config-repo"]
+	path = config-repo
+	url = https://github.com/vinilvidushanka/ECA-FINAL-PROJECT-GoDrive.git
