@@ -66,7 +66,7 @@ All microservices are managed by PM2 to ensure high availability and automatic r
 
 ## 8. Screen Recording Submission (Mandatory)
 
-* **Recording URL**: https://drive.google.com/file/d/12L4fkenJXVYBrzwBsfufipEPKwNqd9bQ/view?usp=drive_link
+* **Recording URL**: https://drive.google.com/file/d/12L4fkenJXVYBrzwBsfufipEPKwNqd9bQ/view?usp=sharing
 
 ## 9. How to Clone This Repository
 
